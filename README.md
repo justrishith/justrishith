@@ -5,7 +5,7 @@ High-school software developer in Fremont, California. I ship small products wit
 ## Projects
 
 - **[Threadline](https://github.com/justrishith/threadline)** — a harness-agnostic Markdown workspace template that helps AI coding sessions resume without losing context. Plain Markdown, no lock-in.
-- **[LinkUp](https://github.com/justrishith/linkup)** — a shared space for friend groups to plan events, ideas, expenses, and memories. Next.js + Supabase, [live on Vercel](https://linkup-sand-kappa.vercel.app).
+- **[LinkUp](https://github.com/justrishith/linkup)** — a shared space for friend groups to plan events, ideas, expenses, and memories. Next.js + Supabase, [live on Vercel](https://linkup-vjvg.vercel.app).
 - **[Portfolio](https://github.com/justrishith/portfolio)** — my personal site, built on Next.js + Tailwind + shadcn/ui.
 
 ## Leadership
