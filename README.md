@@ -8,8 +8,7 @@ High school builder focusing on software development, AI engineering, and deskto
 - Learning Python and backend APIs to develop responsive desktop automation utilities.
 
 ### Contact
-- Email: krishith25@gmail.com
-- Phone: 510-714-8901
+- Email: krishith25@gmail.com 
 
 <!--
 **justrishith/justrishith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
