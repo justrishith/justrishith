@@ -1,26 +1,25 @@
 # Rishith Karnati
 
-High school builder focusing on software development, AI engineering, and desktop application environments.
+High-school software developer in Fremont, California. I ship small products with AI — and make sure I can explain every part of how they work.
 
-### Current Focus
-- Completing Harvard's CS50 introduction to computer science to build foundational programming logic.
-- Founding and organizing an AI/ML club to run interactive, low-code workshops for students.
-- Learning Python and backend APIs to develop responsive desktop automation utilities.
+## Projects
 
-### Contact
-- Email: krishith25@gmail.com 
+- **[Threadline](https://github.com/justrishith/threadline)** — a harness-agnostic Markdown workspace template that helps AI coding sessions resume without losing context. Plain Markdown, no lock-in.
+- **[LinkUp](https://github.com/justrishith/linkup)** — a shared space for friend groups to plan events, ideas, expenses, and memories. Next.js + Supabase, [live on Vercel](https://linkup-sand-kappa.vercel.app).
+- **[Portfolio](https://github.com/justrishith/portfolio)** — my personal site, built on Next.js + Tailwind + shadcn/ui.
 
-<!--
-**justrishith/justrishith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Leadership
 
-Here are some ideas to get you started:
+- **AI/ML Club Officer** @ Irvington High School — running interactive workshops for students interested in AI/ML.
+- **Senior Patrol Leader** @ Scouts BSA — leading weekly meetings for ~50 Scouts; planned and ran 15+ troop events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+
+- Working through Harvard's CS50
+- Building LinkUp in public
+- Learning front-end by shipping real pages
+
+## Contact
+
+- Email: krishith25@gmail.com
+- LinkedIn: [rishith-karnati](https://www.linkedin.com/in/rishith-karnati-5498bb409)
