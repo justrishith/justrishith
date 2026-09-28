@@ -1,27 +1,36 @@
-# Rishith Karnati
+# RISHITH KARNATI
 
-High-school software developer in Fremont, California. I ship small products with AI — and make sure I can explain every part of how they work.
+Grade 10 · Irvington High School, Bay Area.
+AI, robots, and trails — then I film the whole thing.
 
-## Projects
+## NOW
 
-- **[Threadline](https://github.com/justrishith/threadline)** — a small plain-Markdown workspace for AI coding agents to resume work across sessions. Plain Markdown, no lock-in. Live: https://justrishith.github.io/threadline/
-- **[LinkUp](https://github.com/justrishith/linkup)** — a shared space for friend groups to plan events, ideas, expenses, and memories. Next.js + Supabase, [live on Vercel](https://linkup-vjvg.vercel.app).
-- **[Portfolio](https://github.com/justrishith/portfolio)** — my personal site, built on Next.js + Tailwind + shadcn/ui.
+- Programming FTC robots in Java (Sentinels #32678 — programmer + outreach lead)
+- Organizing Sentinel Hacks, a free student hackathon — Jan 9, 2027
+- Building Numa (ambient voice agent for OpenCode) + LinkUp
+- Senior Patrol Leader, Scouts BSA Troop 199 · Friday science volunteering
+- Trail film cut in DaVinci Resolve
 
-## Leadership
+## WORK
 
-- **AI/ML Club Officer** @ Irvington High School — running interactive workshops for students interested in AI/ML.
-- **Senior Patrol Leader** @ Scouts BSA — leading weekly meetings for ~50 Scouts; planned and ran 15+ troop events.
+| PROJECT | WHAT | LINKS |
+|---|---|---|
+| SENTINEL HACKS | Free Bay Area student hackathon, Jan 9 2027 | [OPEN](https://sentinelhacks.tech) |
+| NUMA | Ambient voice agent inside the OpenCode desktop app | [SOURCE](https://github.com/justrishith) |
+| LINKUP | Friend-group space — events, ideas, expenses, memories (Next.js + Supabase) | [OPEN](https://linkup-vjvg.vercel.app) · [SOURCE](https://github.com/justrishith/linkup) |
+| THREADLINE | Plain-Markdown workspace for AI coding agents | [OPEN](https://justrishith.github.io/threadline/) · [SOURCE](https://github.com/justrishith/threadline) |
 
-## Now
+## ELSEWHERE
 
-- Threadline rebuild active: proving a plan made in one AI tool resumes in another
-- Working through Harvard's CS50
-- Building LinkUp in public
-- Learning front-end by shipping real pages
+- SITE — https://justrishith.vercel.app/
+- GITHUB — https://github.com/justrishith
+- LINKEDIN — https://www.linkedin.com/in/rishith-karnati-5498bb409/
+- INSTAGRAM — https://www.instagram.com/_rishith_k/
+- FILM — https://www.instagram.com/rishithfilms_/
+- FACEBOOK — https://www.facebook.com/rishith.karnati/
+- DISCORD — `_rishith_k`
+- EMAIL — krishith25@gmail.com
 
-## Contact
+## LATER
 
-- Email: krishith25@gmail.com
-- LinkedIn: [rishith-karnati](https://www.linkedin.com/in/rishith-karnati-5498bb409)
-- Website: [Rishith's Portfolio](https://portfolio-rho-henna-51.vercel.app/)
+Computer science + AI, UC Berkeley, then my own company.
