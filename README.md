@@ -8,7 +8,7 @@ AI, robots, and trails — then I film the whole thing.
 - Programming FTC robots in Java (Sentinels #32678 — programmer + outreach lead)
 - Organizing Sentinel Hacks, a free student hackathon — Jan 9, 2027
 - Building Numa (ambient voice agent for OpenCode) + LinkUp
-- Senior Patrol Leader, Scouts BSA Troop 199 · Friday science volunteering
+- Ex - Senior Patrol Leader, Scouts BSA Troop 199 
 - Trail film cut in DaVinci Resolve
 
 ## WORK
