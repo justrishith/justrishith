@@ -30,6 +30,11 @@ Currently building Numa, an ambient voice agent. Unreleased, so no link yet.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justrishith&layout=compact&theme=dark)
 ![Streak](https://streak-stats.demolab.com?user=justrishith&theme=dark)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justrishith/justrishith/output/github-snake-dark.svg" />
+  <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/justrishith/justrishith/output/github-snake.svg" />
+</picture>
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishith-karnati-5498bb409/)
