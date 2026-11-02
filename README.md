@@ -1,4 +1,4 @@
-# Hi, I'm Rishith
+﻿# Hi, I'm Rishith
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=520&lines=Sophomore+building+with+AI;FTC+robotics+and+outreach;Hackathon+organizer;Trail+films+in+DaVinci+Resolve)](https://github.com/justrishith)
 
@@ -18,9 +18,10 @@ Grade 10 at Irvington High, Fremont CA. I write Java for FTC 32678 Sentinels, or
 | Project | What | Links |
 |---|---|---|
 | Sentinel Hacks 2027 | Free 12 hour hackathon in Sunnyvale for 50+ Bay Area builders. Jan 23, 2027. | [site](https://www.sentinelhacks.tech) |
-| LinkUp | Friend group space. Events, ideas, expenses. | [site](https://linkup-vjvg.vercel.app) · [code](https://github.com/justrishith/linkup) |
-| Threadline | Plain Markdown memory for AI coding agents. | [site](https://threadline-memory.vercel.app/) · [code](https://github.com/justrishith/threadline) |
+| LinkUp | Friend group space. Events, ideas, expenses. | [site](https://linkup-vjvg.vercel.app) Â· [code](https://github.com/justrishith/linkup) |
+| Threadline | Plain Markdown memory for AI coding agents. | [site](https://threadline-memory.vercel.app/) Â· [code](https://github.com/justrishith/threadline) |
 | Portfolio | My personal site. | [site](https://justrishith.vercel.app) |
+| Cura | Voice-first AI care companion. | [live demo](https://cura-topaz-psi.vercel.app) · [code](https://github.com/justrishith/cura) |`n| Orbit | High-school opportunity tracker. | [live demo](https://orbit-next-lilac.vercel.app) · [code](https://github.com/justrishith/orbit-opportunity-tracker) |
 
 Currently building Numa, an ambient voice agent. Unreleased, so no link yet.
 
@@ -43,3 +44,4 @@ Currently building Numa, an ambient voice agent. Unreleased, so no link yet.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishith25@gmail.com)
 
 Discord: `_rishith_k`
+
