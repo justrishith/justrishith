@@ -19,9 +19,10 @@ Grade 10 at Irvington High, Fremont CA. I write Java for FTC 32678 Sentinels, or
 |---|---|---|
 | Sentinel Hacks 2027 | Free 12 hour hackathon in Sunnyvale for 50+ Bay Area builders. Jan 23, 2027. | [site](https://www.sentinelhacks.tech) |
 | LinkUp | Friend group space. Events, ideas, expenses. | [site](https://linkup-vjvg.vercel.app) Â· [code](https://github.com/justrishith/linkup) |
-| Threadline | Plain Markdown memory for AI coding agents. | [site](https://threadline-memory.vercel.app/) Â· [code](https://github.com/justrishith/threadline) |
+| Threadline | Plain Markdown memory for AI coding agents. | [live demo](https://threadline-memory.vercel.app) · [code](https://github.com/justrishith/threadline) |
 | Portfolio | My personal site. | [site](https://justrishith.vercel.app) |
-| Cura | Voice-first AI care companion. | [live demo](https://cura-topaz-psi.vercel.app) · [code](https://github.com/justrishith/cura) |`n| Orbit | High-school opportunity tracker. | [live demo](https://orbit-next-lilac.vercel.app) · [code](https://github.com/justrishith/orbit-opportunity-tracker) |
+| Cura | Voice-first AI care companion. | [live demo](https://cura-topaz-psi.vercel.app) · [code](https://github.com/justrishith/cura) |
+| Orbit | High-school opportunity tracker. | [live demo](https://orbit-next-lilac.vercel.app) · [code](https://github.com/justrishith/orbit-opportunity-tracker) |
 
 Currently building Numa, an ambient voice agent. Unreleased, so no link yet.
 
